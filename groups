@@ -1,5 +1,5 @@
-# UUID          Group Name
-6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
-1879f157738ec0649d210e79f0132c5fb2c0647f       	puppet-vlan-distgit-core
-0abf5ae108bfa21f48df7a7f6f53de7958767306        	puppet-vlan-distgit-ptl
-global:Registered-Users		Registered Users
+# UUID                                  	Group Name
+#
+0abf5ae108bfa21f48df7a7f6f53de7958767306	puppet/puppet-vlan-distgit-ptl
+1879f157738ec0649d210e79f0132c5fb2c0647f	puppet-vlan-distgit-core
+global:Registered-Users                 	Registered Users
