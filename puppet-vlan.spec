@@ -10,7 +10,7 @@ Name:           puppet-vlan
 Version:        0.1.0
 Release:        1%{?dist}
 Summary:        Vlan Puppet Module
-License:        Apache-2.0
+License:        ASL 2.0
 
 URL:            https://github.com/derekhiggins/puppet-vlan
 
