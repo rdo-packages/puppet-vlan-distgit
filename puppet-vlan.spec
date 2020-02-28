@@ -7,8 +7,8 @@
 
 
 Name:           puppet-vlan
-Version:        XXX
-Release:        XXX
+Version:        0.1.0
+Release:        1%{?dist}
 Summary:        Vlan Puppet Module
 License:        ASL 2.0
 
@@ -48,5 +48,8 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/vlan/
 
 
 %changelog
+* Tue Sep 20 2016 Haikel Guemar <hguemar@fedoraproject.org> - 0.1.0-1
+- Newton update 0.1.0 (c937de75c28e63fba8d8738ad6a5f2ede517e53d)
+
 
 
